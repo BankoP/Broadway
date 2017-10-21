@@ -1,3 +1,7 @@
+html {
+  font-family: Helvetica;
+}
+
 header, h4 {
   background-image: url("../images/background-picture.png");
   text-align: center;
@@ -14,5 +18,25 @@ body {
 footer {
   text-align: left;
   background-color: dimgray;
+  font-size: 11px
+}
 
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3, h4 {
+  font-size: 23px;
 }
